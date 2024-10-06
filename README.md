@@ -1,28 +1,41 @@
-# 👋 Hello, I'm Abdibasid Awol (awolcoder)
+# Abdibasid Awol - Full-Stack Developer
 
-Welcome to my GitHub profile! I'm a passionate **front-end software engineer** and **mathematics teacher** with a strong background in **Statistics, Computer Science**, and **Software Engineering**. My journey in tech has been fueled by my love for problem-solving and building interactive, user-friendly applications.
+Hi 👋, I'm **Abdibasid Awol**, a passionate Full-Stack Developer with expertise in **Backend Development**, **Front-End Web Development**, **Data Science**, and **Cloud Computing**. I have a strong background in **Statistics**, **Computer Science**, and **Software Engineering**, which allows me to approach challenges with a holistic and data-driven perspective. I enjoy building interactive web applications, scalable backend systems, and leveraging cloud technologies to deliver optimal solutions.
 
-## 🚀 Skills and Expertise
+## 🚀 Skills
 
-- **Languages**: JavaScript, HTML5, CSS3
-- **Frameworks & Libraries**: React, Bootstrap, jQuery
+### Front-End Development:
+- **HTML5**, **CSS3**, **JavaScript**
+- **Responsive Web Design**
+- **Frameworks**: React, Bootstrap
+- **Web Accessibility** & **Cross-browser Compatibility**
+
+### Backend Development:
+- **Languages**: Python, Django, Flask
+- **APIs**: REST
+- **Cloud Computing**: AWS
+
+### Data Science & Analytics:
+- **Libraries**: Pandas, NumPy, Matplotlib, SciPy, TensorFlow
+- **Data Visualization** & **Machine Learning**
+
+### Other Technologies:
 - **Version Control**: Git, GitHub
-- **Tools**: Figma, VS Code, Chrome DevTools
-- **Operating System**: Ubuntu
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **DevOps Tools**: Docker, Kubernetes
 
-## 🌱 Currently Learning
+## 🌱 Current Focus
+I'm currently focused on:
+- Improving my skills in **Cloud Computing** and **Data Analytics**
+- Contributing to open-source projects in **Python** and **JavaScript**
 
-I'm continuously honing my skills in:
-- Advanced JavaScript
-- Responsive Web Design
-- Web Performance Optimization
+## 💼 Professional Experience:
+- Bachelor’s Degree in **Statistics** and **Computer Science**
+- Diploma in **Software Engineering**
+- Front-End and Back-End Development Internship at **ALX**
 
-## 🎯 Goals
+## 📫 Let's Connect:
 
-I aim to:
-- Master front-end development with React and TypeScript.
-- Contribute to open-source projects.
-- Continuously evolve as a developer by taking on challenging projects.
+- **Email**: abdulbasitawil42@gmail.com
 
-## 📫 Get in Touch
-- Email: abdulbasitawil42@gmail.com
+Feel free to reach out for collaboration or discussions on **front-end development**, **backend engineering**, **data science**, and **cloud computing**. Let's build amazing projects together!
