@@ -17,17 +17,6 @@ I'm continuously honing my skills in:
 - Responsive Web Design
 - Web Performance Optimization
 
-## 📂 Projects
-
-### 1. [ALX Simple Quiz](https://github.com/awolcoder/ALX_Simple_Quiz)
-A dynamic, JavaScript-based interactive quiz that allows users to test their knowledge. This project demonstrates my ability to implement logic, user interaction, and responsive design.
-
-### 2. [TechCon 2024 Website](https://github.com/awolcoder/TechCon_HTML)
-A fully structured website for TechCon 2024, highlighting my proficiency in HTML, CSS, and media embedding.
-
-### 3. [My First Portfolio](https://github.com/awolcoder/My_First_Portfolio)
-A personal portfolio that showcases my projects, skills, and experience, designed with a focus on clean code and UI/UX principles.
-
 ## 🎯 Goals
 
 I aim to:
@@ -36,7 +25,4 @@ I aim to:
 - Continuously evolve as a developer by taking on challenging projects.
 
 ## 📫 Get in Touch
-
-- LinkedIn: [Abdibasid Awol](https://www.linkedin.com/in/abdibasid-awol-19b752234)
-- GitHub: [awolcoder](https://github.com/awolcoder)
 - Email: abdulbasitawil42@gmail.com
